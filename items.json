@@ -1,0 +1,53 @@
+[
+{
+  "itemId": "1",
+  "name": "dummy1",
+  "version": "1.0",
+  "description": "first dummy program",
+  "avgRating": "4.5",
+  "users": "10" ,
+  "projects": "5",
+  "releaseDate": "01-01-2016",
+  "corner": "1",
+  "ratingStructure": ["1","2","3","4","5"],
+  "author": "xlab",
+  "authorItems": "3",
+  "documents": [],
+  "template": "?",
+  "repoLink": "git.com/item1"
+},
+{
+  "itemId": "2",
+  "name": "dummy2",
+  "version": "1.0",
+  "description": "second dummy program",
+  "avgRating": "4.5",
+  "users": "10" ,
+  "projects": "5",
+  "releaseDate": "01-01-2016",
+  "corner": "2",
+  "ratingStructure": ["1","2","3","4","5"],
+  "author": "xlab",
+  "authorItems": "3",
+  "documents": [],
+  "template": "?",
+  "repoLink": "git.com/item2"
+},
+{
+  "itemId": "3",
+  "name": "dummy3",
+  "version": "1.0",
+  "description": "third dummy program",
+  "avgRating": "4.5",
+  "users": "10" ,
+  "projects": "5",
+  "releaseDate": "01-01-2016",
+  "corner": "3",
+  "ratingStructure": ["1","2","3","4","5"],
+  "author": "xlab",
+  "authorItems": "3",
+  "documents": [],
+  "template": "?",
+  "repoLink": "git.com/item3"
+}
+]
