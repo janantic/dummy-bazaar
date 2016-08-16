@@ -80,6 +80,6 @@ app.post('/api/items/:itemId/comments', function(req, res) {
 });
 
 
-var server = app.listen(3000, function() {
+var server = app.listen(10010, function() {
   console.log("Dummy Bazaar listening at http://%s:%s", server.address().address, server.address().port);
-})
+});
